@@ -20,8 +20,6 @@ class Person
     {
         return $this->age;
     }
-
-
 }
 
 $obj = new Person("Manish",23); //paramitarized constructor 

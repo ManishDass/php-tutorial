@@ -4,7 +4,6 @@ $n = 1634;
 $temp = $n;
 $rem = 0;
 $sum = 0;
-$next = 0;
 
 while($n > 0)
 {

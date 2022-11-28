@@ -8,7 +8,7 @@ $sum = 0;
 for($i = 0;$i<$len;$i++)
 {
 	$rem = $n % 10;
-	$sum = $sum * 10 + $rem;
+	$sum = $sum * 10 + $rem; 
 	$n = floor($n /10);
 }
 

@@ -1,16 +1,8 @@
 <?php
     $name = "Hello";
-    $test = "";
-
-    for($i = 0;$i<strlen($name);$i++)
-    {
-        $test += $name[$i];
-    }
-
-    
 
     //Using Builtin Function
-    //echo strrev($name); 
+    echo strrev($name); 
 
     // $arr = array();
 
